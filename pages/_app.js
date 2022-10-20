@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-// hello
+// hello therer
 function MyApp({ Component, pageProps }) {
 	return <Component {...pageProps} />;
 }
